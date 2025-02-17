@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "projects": {
+    "ec-component-library": {
+      "projectType": "library",
+      "schematics": {
+        "@schematics/angular:component": {
+          "style": "scss"
+        }
+      },
+      "architect": {
+        "storybook": {
+          "builder": "@storybook/angular:start-storybook",
+          "options": {
+            "browserTarget": "ec-component-library:build",
+            "port": 6006,
+            "configDir": ".storybook"
+          }
+        },
+        "build-storybook": {
+          "builder": "@storybook/angular:build-storybook",
+          "options": {
+            "browserTarget": "ec-component-library:build",
+            "outputDir": "storybook-static",
+            "configDir": ".storybook"
+          }
+        },
+        "build": {
+          "builder": "@angular-devkit/build-angular:ng-packagr",
+          "options": {
+            "tsConfig": "tsconfig.json",
+            "project": "ng-package.json"
+          },
+          "configurations": {
+            "production": {
+              "tsConfig": "tsconfig.prod.json"
+            }
+          }
+        }
+      },
+      "root": "projects/ec-component-library",
+      "sourceRoot": "projects/ec-component-library/src",
+      "prefix": "ec"
+    }
+  },
+  "cli": {
+    "analytics": false
+  }
+}

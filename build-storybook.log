@@ -1,0 +1,380 @@
+
+> entercard-comp-lib@0.0.0 build-storybook
+> ng run entercard-comp-lib:build-storybook --output-dir=C:\Users\DOUGLA~1\AppData\Local\Temp\chromatic--37280-G8BOozLBvEth
+
+[0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+
+1.1.26
+
+TypeScript version used by Compodoc : 5.6.2
+
+TypeScript version of current project : 5.6.2
+
+Node.js version : v22.0.0
+
+Operating system : Windows 10
+
+[13:06:55] [33mNo configuration file found, switching to CLI flags.[39m
+[13:06:55] [32mUsing tsconfig file : C:\Users\DouglasHammarstam\git\entercard-comp-lib\.storybook\tsconfig.doc.json[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/build-storybook.log[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/index.html[39m
+[13:06:55] [36mIncluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/main.ts[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/styles.scss[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/app/app.component.css[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/app/app.component.html[39m
+[13:06:55] [36mIncluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/app/app.component.ts[39m
+[13:06:55] [36mIncluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/app/app.config.ts[39m
+[13:06:55] [36mIncluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/app/app.routes.ts[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/styles/androidWebTypography.scss[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/styles/color-mixins.scss[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/styles/design-tokens.scss[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/styles/globalRaduis.scss[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/styles/_shared-styles.scss[39m
+[13:06:55] [36mIncluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/app/services/theme.service.ts[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/themes/_variables-coop.css[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/themes/_variables-entercard.css[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/themes/_variables-forex.css[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/themes/_variables-lomervarde.css[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/themes/_variables-moregolf.css[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/themes/_variables-platinum.css[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/themes/_variables-plusguldkort.css[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/themes/_variables-promervarde.css[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/themes/_variables-remember.css[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/themes/_variables-swedbank.css[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/styles/accordion/shared-accordion-styles.scss[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Account.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Add card (old).svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Add card.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Add loan.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Add user.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Anatomy.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Android.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Arrow-back.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Arrow-down.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Arrow-forward.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Arrow-up.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Attachment.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Balance.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Bank.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Bell.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Benefits.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Biometrics.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Block.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Briefcase.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Broken heart.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Bug.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Calendar.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Call.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Card chip.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Card-missing.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Card.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Chat.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Check.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Chevron-down.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Chevron-Left.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Chevron-Right.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Chevron-up.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Clipboard.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Close.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Cog.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Contact-info.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Contactless.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Credit limit increase (old).svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Credit limit increase.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Credit limit.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Customer.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Deceased.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Delayed departure.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Digital wallet.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Discount.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Dispute.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Doc-pdf.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Doc-xls.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Double document.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/double payment free month.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Download.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Drink.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/E-invoice.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Economy.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Edit.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Education.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Emergency.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Entertainment.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Error.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/FAQ.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Feedback.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Filter.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Flag.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Food.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Freeze card.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Gift.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Globe.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Good.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Gravestone.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Group.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Grow.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Hand-out.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Hand.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Health & Beauty.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Heart.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Hide.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Home-1.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Home.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/House-temporary.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Househeart.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/ID-theft protection.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Idea.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Instalment.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Insurance.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Interest free.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Irregular.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Keys.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Kids.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Laptop.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Legal.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Loader.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Loan.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Log out.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Luggage delay.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Mail.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Measure.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Menu.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Merchant.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Minimum to pay.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Minus.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Missed connection.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/More.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Multiple people.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/New window.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/New.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/No annual fee.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/No-briefcase.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Notifications.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Number.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Other.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Padlock.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Pay.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Pensioner.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Pets.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Phone.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Pin Single.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Pin.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Plus.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Points.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Police.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Products.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Recurring.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Redeem bonus.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Refinance.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Remove.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Repay.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Replace card.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Rings.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Savings & Investments.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Scale-up.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Search.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Share.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Shopping & Services.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Show.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Skip.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Slide-horizontal.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Slide-vertical.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Smart Watch.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Split.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/State.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Statements.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Student.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Support.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Swap.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Tax.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Time.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Top up.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Topic.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Transport.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Trash.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Travel & Vacation.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Travel.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Trip cancellation.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Trip delay.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Unemployed.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Union.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Upload.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Variants.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Virus.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Weblink.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/assets/icons/Zero liability protection.svg[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/app/components/accordion/accordion.component.html[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/app/components/accordion/accordion.component.scss[39m
+[13:06:55] [36mIncluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/app/components/accordion/accordion.component.ts[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/app/components/accordion-item/enter-card-accordion-item.component.html[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/app/components/accordion-item/enter-card-accordion-item.component.scss[39m
+[13:06:55] [36mIncluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/app/components/accordion-item/enter-card-accordion-item.component.ts[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/app/components/accordion-container/enter-card-accordion-container.component.html[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/app/components/accordion-container/enter-card-accordion-container.component.scss[39m
+[13:06:55] [36mIncluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/app/components/accordion-container/enter-card-accordion-container.component.ts[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/app/components/breadcrumbs/breadcrumbs.component.html[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/app/components/breadcrumbs/breadcrumbs.component.scss[39m
+[13:06:55] [36mIncluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/app/components/breadcrumbs/breadcrumbs.component.ts[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/app/components/badge/badge.component.html[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/app/components/badge/badge.component.scss[39m
+[13:06:55] [36mIncluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/app/components/badge/badge.component.ts[39m
+[13:06:55] [36mIncluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/app/components/configs/ButtonConfig.ts[39m
+[13:06:55] [36mIncluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/app/components/configs/cssClasses.ts[39m
+[13:06:55] [36mIncluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/app/components/configs/IBreadCrumb.ts[39m
+[13:06:55] [36mIncluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/app/components/configs/ITheme.ts[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/app/components/button/enter-card-button.component.html[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/app/components/button/enter-card-button.component.scss[39m
+[13:06:55] [36mIncluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/app/components/button/enter-card-button.component.ts[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/app/components/segment-control/segment-control.component.html[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/app/components/segment-control/segment-control.component.scss[39m
+[13:06:55] [36mIncluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/app/components/segment-control/segment-control.component.ts[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/app/components/button-group/button-group.component.html[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/app/components/button-group/button-group.component.scss[39m
+[13:06:55] [36mIncluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/app/components/button-group/button-group.component.ts[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/app/components/icon/icon.component.html[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/app/components/icon/icon.component.scss[39m
+[13:06:55] [36mIncluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/app/components/icon/icon.component.ts[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/styles/design-tokens-raw/entercard/colorsLight.json[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/styles/design-tokens-raw/coop/colorsLight.json[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/styles/design-tokens-raw/lomervarde/colorsLight.json[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/styles/design-tokens-raw/forex/colorsLight.json[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/styles/design-tokens-raw/moregolf/colorsLight.json[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/styles/design-tokens-raw/plusguldkort/colorsLight.json[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/styles/design-tokens-raw/platinum/colorsLight.json[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/styles/design-tokens-raw/Remember/colorsLight.json[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/styles/design-tokens-raw/promervarde/colorsLight.json[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/styles/design-tokens-raw/global/androidWebTypography.json[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/styles/design-tokens-raw/global/globalRadius.json[39m
+[13:06:55] [33mExcluding      : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/styles/design-tokens-raw/swedbank/colorsLight.json[39m
+[13:06:55] [32mSearching package.json file[39m
+[13:06:55] [32mpackage.json file found[39m
+[13:06:55] [32mProcessing package.json dependencies[39m
+[13:06:55] [32mSearching README.md, CHANGELOG.md, CONTRIBUTING.md, LICENSE.md, TODO.md files[39m
+[13:06:55] [32mREADME.md file found[39m
+[13:06:55] [33mError during C:\Users\DouglasHammarstam\git\entercard-comp-lib\CHANGELOG read[39m
+[13:06:55] [33mContinuing without CHANGELOG.md file[39m
+[13:06:55] [33mError during C:\Users\DouglasHammarstam\git\entercard-comp-lib\CONTRIBUTING read[39m
+[13:06:55] [33mContinuing without CONTRIBUTING.md file[39m
+[13:06:55] [33mError during C:\Users\DouglasHammarstam\git\entercard-comp-lib\LICENSE read[39m
+[13:06:55] [33mContinuing without LICENSE.md file[39m
+[13:06:55] [33mError during C:\Users\DouglasHammarstam\git\entercard-comp-lib\TODO read[39m
+[13:06:55] [33mContinuing without TODO.md file[39m
+[13:06:55] [32mGet dependencies data[39m
+[13:06:55] [32mparsing        : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/main.ts[39m
+[13:06:55] [32mparsing        : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/app/app.component.ts[39m
+[13:06:55] [36mfound          : AppComponent[39m
+[13:06:55] [36m               : - imports:[39m
+[13:06:55] [36m               : 	- RouterOutlet[39m
+[13:06:55] [32mparsing        : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/app/app.config.ts[39m
+[13:06:55] [36mfound          : appConfig[39m
+[13:06:55] [32mparsing        : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/app/app.routes.ts[39m
+[13:06:55] [32mAnalysing routes definitions and clean them if necessary[39m
+[13:06:55] [32mparsing        : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/app/services/theme.service.ts[39m
+[13:06:55] [36mfound          : ThemeService[39m
+[13:06:55] [32mparsing        : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/app/components/accordion/accordion.component.ts[39m
+[13:06:55] [36mfound          : AccordionComponent[39m
+[13:06:55] [36m               : - imports:[39m
+[13:06:55] [36m               : 	- CdkAccordionModule[39m
+[13:06:55] [36m               : 	- IconComponent[39m
+[13:06:55] [32mparsing        : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/app/components/accordion-item/enter-card-accordion-item.component.ts[39m
+[13:06:55] [36mfound          : EnterCardAccordionItem[39m
+[13:06:55] [36m               : - imports:[39m
+[13:06:55] [36m               : 	- CdkAccordionItem[39m
+[13:06:55] [36m               : 	- IconComponent[39m
+[13:06:55] [36m               : 	- NgClass[39m
+[13:06:55] [32mparsing        : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/app/components/accordion-container/enter-card-accordion-container.component.ts[39m
+[13:06:55] [36mfound          : EnterCardAccordionContainer[39m
+[13:06:55] [36m               : - imports:[39m
+[13:06:55] [36m               : 	- CdkAccordion[39m
+[13:06:55] [32mparsing        : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/app/components/breadcrumbs/breadcrumbs.component.ts[39m
+[13:06:55] [36mfound          : BreadcrumbsComponent[39m
+[13:06:55] [36m               : - imports:[39m
+[13:06:55] [36m               : 	- NgForOf[39m
+[13:06:55] [36m               : 	- NgIf[39m
+[13:06:55] [36m               : 	- NgClass[39m
+[13:06:55] [36m               : 	- IconComponent[39m
+[13:06:55] [32mparsing        : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/app/components/badge/badge.component.ts[39m
+[13:06:55] [36mfound          : BadgeComponent[39m
+[13:06:55] [36m               : - imports:[39m
+[13:06:55] [36m               : 	- NgClass[39m
+[13:06:55] [36m               : 	- NgIf[39m
+[13:06:55] [32mparsing        : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/app/components/configs/ButtonConfig.ts[39m
+[13:06:55] [36mfound          : ButtonConfig[39m
+[13:06:55] [32mparsing        : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/app/components/configs/cssClasses.ts[39m
+[13:06:55] [36mfound          : themes[39m
+[13:06:55] [32mparsing        : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/app/components/configs/IBreadCrumb.ts[39m
+[13:06:55] [36mfound          : IBreadCrumb[39m
+[13:06:55] [32mparsing        : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/app/components/configs/ITheme.ts[39m
+[13:06:55] [36mfound          : ITheme[39m
+[13:06:55] [32mparsing        : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/app/components/button/enter-card-button.component.ts[39m
+[13:06:55] [36mfound          : EnterCardButton[39m
+[13:06:55] [36m               : - imports:[39m
+[13:06:55] [36m               : 	- CommonModule[39m
+[13:06:55] [36m               : 	- IconComponent[39m
+[13:06:55] [32mparsing        : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/app/components/segment-control/segment-control.component.ts[39m
+[13:06:55] [36mfound          : SegmentControlComponent[39m
+[13:06:55] [36m               : - imports:[39m
+[13:06:55] [36m               : 	- MatButtonToggleGroup[39m
+[13:06:55] [36m               : 	- MatButtonToggle[39m
+[13:06:55] [36m               : 	- NgForOf[39m
+[13:06:55] [36m               : 	- IconComponent[39m
+[13:06:55] [36m               : 	- NgIf[39m
+[13:06:55] [36m               : 	- NgClass[39m
+[13:06:55] [32mparsing        : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/app/components/button-group/button-group.component.ts[39m
+[13:06:55] [36mfound          : ButtonGroupComponent[39m
+[13:06:55] [36m               : - imports:[39m
+[13:06:55] [36m               : 	- EnterCardButton[39m
+[13:06:55] [36m               : 	- NgClass[39m
+[13:06:55] [36m               : 	- NgIf[39m
+[13:06:55] [32mparsing        : C:/Users/DouglasHammarstam/git/entercard-comp-lib/src/app/components/icon/icon.component.ts[39m
+[13:06:55] [36mfound          : IconComponent[39m
+[13:06:55] [32m-------------------[39m
+[13:06:55] [32mProject statistics [39m
+[13:06:55] [32m- component    : 10[39m
+[13:06:55] [32m- injectable   : 1[39m
+[13:06:55] [32m- interface    : 2[39m
+[13:06:55] [32m- type aliases : 1[39m
+[13:06:55] [32m-------------------[39m
+[13:06:55] [32mPrepare components[39m
+[13:06:55] [32m AccordionComponent has a templateUrl, include it[39m
+[13:06:55] [32m AppComponent has a templateUrl, include it[39m
+[13:06:55] [32m BadgeComponent has a templateUrl, include it[39m
+[13:06:55] [32m BreadcrumbsComponent has a templateUrl, include it[39m
+[13:06:55] [32m ButtonGroupComponent has a templateUrl, include it[39m
+[13:06:55] [32m EnterCardAccordionContainer has a templateUrl, include it[39m
+[13:06:55] [32m EnterCardAccordionItem has a templateUrl, include it[39m
+[13:06:55] [32m EnterCardButton has a templateUrl, include it[39m
+[13:06:55] [32m EnterCardButton has styleUrls, include them[39m
+[13:06:55] [32m SegmentControlComponent has a templateUrl, include it[39m
+[13:06:55] [32m SegmentControlComponent has styleUrls, include them[39m
+[13:06:55] [32mPrepare modules[39m
+[13:06:55] [32mPrepare injectables[39m
+[13:06:55] [32mPrepare interfaces[39m
+[13:06:55] [32mPrepare miscellaneous[39m
+[13:06:55] [32mProcess documentation coverage report[39m
+[13:06:55] [32mGenerating documentation in export format json[39m
+[13:06:55] [32mDocumentation generated in ./ in 0.523 seconds[39m
+info => Cleaning outputDir: [36m..\..\..\DOUGLA~1\AppData\Local\Temp\chromatic--37280-G8BOozLBvEth[39m
+
+info => Loading presets
+info => Building manager..
+info => Manager built ([38;2;181;126;229m197 ms[39m)
+info => Building preview..
+info Addon-docs: using MDX3
+info => Using implicit CSS loaders
+info => Using angular browser target options from "entercard-comp-lib:build"
+info => Using angular project with "tsConfig:C:\Users\DouglasHammarstam\git\entercard-comp-lib\.storybook\tsconfig.json"
+WARN No story files found for the specified pattern: [34msrc\**\*.mdx[39m
+info => Using default Webpack5 setup
+info => Copying static files: [36msrc\assets[39m at [36m..\..\..\DOUGLA~1\AppData\Local\Temp\chromatic--37280-G8BOozLBvEth\assets[39m
